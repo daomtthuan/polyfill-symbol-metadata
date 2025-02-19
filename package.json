@@ -1,0 +1,23 @@
+{
+  "name": "polyfill-symbol-metadata",
+  "version": "0.0.1",
+  "description": "A polyfill for Symbol.metadata to support TC39 Decorator Metadata Proposal",
+  "license": "MIT",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daomtthuan/polyfill-symbol-metadata.git"
+  },
+  "homepage": "https://github.com/daomtthuan/polyfill-symbol-metadata#readme",
+  "bugs": {
+    "url": "https://github.com/daomtthuan/polyfill-symbol-metadata/issues"
+  },
+  "keywords": [
+    "polyfill",
+    "symbol",
+    "metadata",
+    "tc39",
+    "decorator"
+  ]
+}
